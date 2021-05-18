@@ -1,5 +1,4 @@
 .Account {
-  background-color: bisque;
   padding: 20px;
   margin: auto;
 }
@@ -11,12 +10,15 @@
 }
 
 .btn-add-account {
-  color: red;
-  padding: 5px;
+  display:block;
   margin: auto;
-  box-shadow: darkblue;
-  text-align: center;
-  display: block;
+  margin-top: 10px;
+  width:150px;
+  line-height:50px;
+  text-align:center;
+  color:white;
+  text-decoration:none;
+  background-color: black;
 }
 
 .st-login {
